@@ -43,5 +43,5 @@
     * 게임오버 씬에서 처음으로 , 다시하기 버튼을 선택하면 씬을 다시 불러옵니다.
 
 ## Live #3:시연 영상
-https://studio.youtube.com/video/ouXbAyGr-U8/edit (미편집 원본영상)
-https://studio.youtube.com/video/1NjzXURzaC0/edit
+* https://studio.youtube.com/video/ouXbAyGr-U8/edit (미편집 원본영상)
+* https://studio.youtube.com/video/1NjzXURzaC0/edit
