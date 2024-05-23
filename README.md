@@ -11,9 +11,8 @@
 * 박의겸
    * 낙하 오브젝트 , 캐릭터 스킬 담당
  
-#### 스쿨 아이돌 개발자 프로젝트
 
-## Live  #2:주요 기능 설명
+## Live  #2: 주요 기능 설명
 
 1. 로그인
    * 만약 목록에 만들어져있는 아이디와 비밀번호가 없다면 메인 게임시작씬으로 넘어가지 못합니다.
@@ -42,6 +41,12 @@
 11. 재시작
     * 게임오버 씬에서 처음으로 , 다시하기 버튼을 선택하면 씬을 다시 불러옵니다.
 
-## Live #3:시연 영상
-* https://studio.youtube.com/video/ouXbAyGr-U8/edit (미편집 원본영상)
-* https://studio.youtube.com/video/1NjzXURzaC0/edit
+## Live #3: 시연 영상
+*  ### 미편집 원본영상
+[![Main](https://github.com/Jihyo3/Lets_Go_Idol/assets/141620531/582de7fd-21b2-4b76-b540-81e098ac510a)
+](https://www.youtube.com/watch?v=ouXbAyGr-U8)
+
+  
+* ### 편집 영상
+[![Main](https://github.com/Jihyo3/Lets_Go_Idol/assets/141620531/582de7fd-21b2-4b76-b540-81e098ac510a)
+](https://www.youtube.com/watch?v=1NjzXURzaC0)
