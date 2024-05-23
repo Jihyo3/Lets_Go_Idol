@@ -44,6 +44,7 @@
 
 ### 6. 오브젝트 제거
    * 특정 아이템을 획득시 캐릭터 근처의 Falling Object를 감지하고 키입력시 아이템을 소모하여 Falling Objcet 를 제거합니다.
+   * 
      ![스크린샷 2024-05-23 123204](https://github.com/Jihyo3/Lets_Go_Idol/assets/141620531/6fe550f1-4b85-4b38-8fda-17135ceb1aff)
 
 
